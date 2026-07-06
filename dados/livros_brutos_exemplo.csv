@@ -1,0 +1,241 @@
+titulo,preco_texto,estrelas_texto,categoria
+Travel Book 1,£26.19,Two,Travel
+Travel Book 2,£42.55,Two,Travel
+Travel Book 3,£36.79,Three,Travel
+Travel Book 4,£12.90,Three,Travel
+Travel Book 5,£11.87,Two,Travel
+Travel Book 6,£13.49,One,Travel
+Travel Book 7,£31.23,Four,Travel
+Travel Book 8,£16.19,Two,Travel
+Travel Book 9,£41.37,Five,Travel
+Travel Book 10,£38.86,Three,Travel
+Travel Book 11,£58.81,Two,Travel
+Travel Book 12,£52.92,Three,Travel
+Travel Book 13,£17.21,Two,Travel
+Travel Book 14,£25.42,Four,Travel
+Travel Book 15,£19.04,Three,Travel
+Travel Book 16,£41.95,Three,Travel
+Travel Book 17,£37.39,Two,Travel
+Travel Book 18,£12.98,Two,Travel
+Travel Book 19,£44.02,Three,Travel
+Travel Book 20,£25.71,Three,Travel
+Travel Book 21,£32.66,Two,Travel
+Travel Book 22,£49.72,Four,Travel
+Travel Book 23,£22.20,Three,Travel
+Travel Book 24,£36.26,Four,Travel
+Travel Book 25,£46.47,Three,Travel
+Travel Book 26,£59.01,Two,Travel
+Travel Book 27,£30.91,Four,Travel
+Travel Book 28,£17.60,Three,Travel
+Travel Book 29,£11.96,Three,Travel
+Travel Book 30,£48.23,Four,Travel
+Mystery Book 1,£53.77,Three,Mystery
+Mystery Book 2,£44.76,Four,Mystery
+Mystery Book 3,£38.99,Three,Mystery
+Mystery Book 4,£52.00,Five,Mystery
+Mystery Book 5,£33.70,Four,Mystery
+Mystery Book 6,£13.03,Three,Mystery
+Mystery Book 7,£42.36,Five,Mystery
+Mystery Book 8,£51.10,Three,Mystery
+Mystery Book 9,£29.29,Three,Mystery
+Mystery Book 10,£11.13,Three,Mystery
+Mystery Book 11,£18.40,Two,Mystery
+Mystery Book 12,£12.95,Four,Mystery
+Mystery Book 13,£16.47,Two,Mystery
+Mystery Book 14,£29.55,Four,Mystery
+Mystery Book 15,£14.03,Three,Mystery
+Mystery Book 16,£37.47,Four,Mystery
+Mystery Book 17,£50.96,Four,Mystery
+Mystery Book 18,£23.92,Three,Mystery
+Mystery Book 19,£27.94,Four,Mystery
+Mystery Book 20,£57.89,Two,Mystery
+Mystery Book 21,£18.81,Two,Mystery
+Mystery Book 22,£21.67,Three,Mystery
+Mystery Book 23,£39.46,Two,Mystery
+Mystery Book 24,£10.20,Two,Mystery
+Mystery Book 25,£28.46,Three,Mystery
+Mystery Book 26,£57.65,Four,Mystery
+Mystery Book 27,£35.77,Three,Mystery
+Mystery Book 28,£43.81,Two,Mystery
+Mystery Book 29,£54.98,Four,Mystery
+Mystery Book 30,£53.73,Four,Mystery
+Historical Fiction Book 1,£29.62,Three,Historical Fiction
+Historical Fiction Book 2,£15.18,Three,Historical Fiction
+Historical Fiction Book 3,£13.11,One,Historical Fiction
+Historical Fiction Book 4,£20.44,Two,Historical Fiction
+Historical Fiction Book 5,£27.00,Two,Historical Fiction
+Historical Fiction Book 6,£10.01,Two,Historical Fiction
+Historical Fiction Book 7,£15.07,Two,Historical Fiction
+Historical Fiction Book 8,£11.28,Four,Historical Fiction
+Historical Fiction Book 9,£40.70,Two,Historical Fiction
+Historical Fiction Book 10,£22.61,Two,Historical Fiction
+Historical Fiction Book 11,£28.21,Two,Historical Fiction
+Historical Fiction Book 12,£52.45,Five,Historical Fiction
+Historical Fiction Book 13,£33.30,Three,Historical Fiction
+Historical Fiction Book 14,£14.29,Two,Historical Fiction
+Historical Fiction Book 15,£27.13,Two,Historical Fiction
+Historical Fiction Book 16,£51.44,Two,Historical Fiction
+Historical Fiction Book 17,£11.15,Four,Historical Fiction
+Historical Fiction Book 18,£36.41,Two,Historical Fiction
+Historical Fiction Book 19,£37.16,Two,Historical Fiction
+Historical Fiction Book 20,£36.41,Five,Historical Fiction
+Historical Fiction Book 21,£53.17,Four,Historical Fiction
+Historical Fiction Book 22,£23.06,Two,Historical Fiction
+Historical Fiction Book 23,£18.35,Four,Historical Fiction
+Historical Fiction Book 24,£36.63,Four,Historical Fiction
+Historical Fiction Book 25,£26.48,Two,Historical Fiction
+Historical Fiction Book 26,£50.58,Five,Historical Fiction
+Historical Fiction Book 27,£52.63,Four,Historical Fiction
+Historical Fiction Book 28,£50.92,Four,Historical Fiction
+Historical Fiction Book 29,£21.34,Three,Historical Fiction
+Historical Fiction Book 30,£27.78,Two,Historical Fiction
+Classics Book 1,£11.40,Three,Classics
+Classics Book 2,£22.96,Four,Classics
+Classics Book 3,£57.83,Four,Classics
+Classics Book 4,£56.85,Five,Classics
+Classics Book 5,£57.75,Four,Classics
+Classics Book 6,£21.02,Three,Classics
+Classics Book 7,£19.84,Three,Classics
+Classics Book 8,£41.20,Five,Classics
+Classics Book 9,£52.02,Four,Classics
+Classics Book 10,£42.65,Five,Classics
+Classics Book 11,£14.24,Four,Classics
+Classics Book 12,£55.49,Five,Classics
+Classics Book 13,£47.51,Four,Classics
+Classics Book 14,£18.93,Four,Classics
+Classics Book 15,£26.63,Four,Classics
+Classics Book 16,£58.58,Four,Classics
+Classics Book 17,£30.07,Five,Classics
+Classics Book 18,£46.24,Three,Classics
+Classics Book 19,£16.35,Two,Classics
+Classics Book 20,£55.24,Five,Classics
+Classics Book 21,£17.31,Four,Classics
+Classics Book 22,£59.02,Five,Classics
+Classics Book 23,£27.52,Four,Classics
+Classics Book 24,£16.55,Two,Classics
+Classics Book 25,£58.54,Five,Classics
+Classics Book 26,£36.33,Five,Classics
+Classics Book 27,£31.69,Five,Classics
+Classics Book 28,£51.31,Three,Classics
+Classics Book 29,£22.59,Three,Classics
+Classics Book 30,£22.03,Four,Classics
+Poetry Book 1,£22.97,Three,Poetry
+Poetry Book 2,£16.55,Five,Poetry
+Poetry Book 3,£27.69,Three,Poetry
+Poetry Book 4,£39.17,Five,Poetry
+Poetry Book 5,£31.03,Five,Poetry
+Poetry Book 6,£35.08,Four,Poetry
+Poetry Book 7,£36.18,Two,Poetry
+Poetry Book 8,£32.01,Three,Poetry
+Poetry Book 9,£10.20,Four,Poetry
+Poetry Book 10,£18.62,Three,Poetry
+Poetry Book 11,£46.26,Four,Poetry
+Poetry Book 12,£26.30,Four,Poetry
+Poetry Book 13,£37.77,Five,Poetry
+Poetry Book 14,£15.31,Four,Poetry
+Poetry Book 15,£22.42,Three,Poetry
+Poetry Book 16,£48.61,Four,Poetry
+Poetry Book 17,£38.09,Five,Poetry
+Poetry Book 18,£55.62,Four,Poetry
+Poetry Book 19,£40.63,Four,Poetry
+Poetry Book 20,£35.61,Four,Poetry
+Poetry Book 21,£32.62,Four,Poetry
+Poetry Book 22,£33.90,Five,Poetry
+Poetry Book 23,£44.96,Five,Poetry
+Poetry Book 24,£57.11,Three,Poetry
+Poetry Book 25,£37.98,Five,Poetry
+Poetry Book 26,£52.00,Three,Poetry
+Poetry Book 27,£16.08,Three,Poetry
+Poetry Book 28,£13.63,Three,Poetry
+Poetry Book 29,£13.66,Four,Poetry
+Poetry Book 30,£49.20,Five,Poetry
+Romance Book 1,£17.72,Three,Romance
+Romance Book 2,£43.01,Two,Romance
+Romance Book 3,£54.14,Five,Romance
+Romance Book 4,£20.98,Four,Romance
+Romance Book 5,£29.91,Three,Romance
+Romance Book 6,£59.49,Four,Romance
+Romance Book 7,£18.07,Three,Romance
+Romance Book 8,£35.78,Three,Romance
+Romance Book 9,£19.79,Two,Romance
+Romance Book 10,£46.11,Two,Romance
+Romance Book 11,£37.70,Three,Romance
+Romance Book 12,£10.90,Two,Romance
+Romance Book 13,£41.20,Three,Romance
+Romance Book 14,£13.21,Four,Romance
+Romance Book 15,£49.42,Five,Romance
+Romance Book 16,£15.24,Two,Romance
+Romance Book 17,£11.98,Four,Romance
+Romance Book 18,£23.52,Two,Romance
+Romance Book 19,£31.11,Four,Romance
+Romance Book 20,£50.95,Three,Romance
+Romance Book 21,£17.47,Four,Romance
+Romance Book 22,£38.53,Four,Romance
+Romance Book 23,£14.47,One,Romance
+Romance Book 24,£44.41,Three,Romance
+Romance Book 25,£13.62,Four,Romance
+Romance Book 26,£41.72,Four,Romance
+Romance Book 27,£14.19,Four,Romance
+Romance Book 28,£13.33,Four,Romance
+Romance Book 29,£32.69,Three,Romance
+Romance Book 30,£37.65,Four,Romance
+Science Fiction Book 1,£23.39,Two,Science Fiction
+Science Fiction Book 2,£36.35,Two,Science Fiction
+Science Fiction Book 3,£15.47,Two,Science Fiction
+Science Fiction Book 4,£12.52,Two,Science Fiction
+Science Fiction Book 5,£25.60,Two,Science Fiction
+Science Fiction Book 6,£47.97,Three,Science Fiction
+Science Fiction Book 7,£35.00,Two,Science Fiction
+Science Fiction Book 8,£27.35,Two,Science Fiction
+Science Fiction Book 9,£22.52,One,Science Fiction
+Science Fiction Book 10,£46.65,Three,Science Fiction
+Science Fiction Book 11,£19.47,Three,Science Fiction
+Science Fiction Book 12,£56.73,Two,Science Fiction
+Science Fiction Book 13,£50.95,Three,Science Fiction
+Science Fiction Book 14,£34.75,Four,Science Fiction
+Science Fiction Book 15,£29.65,Three,Science Fiction
+Science Fiction Book 16,£44.39,Five,Science Fiction
+Science Fiction Book 17,£27.14,Four,Science Fiction
+Science Fiction Book 18,£45.34,Four,Science Fiction
+Science Fiction Book 19,£30.23,Three,Science Fiction
+Science Fiction Book 20,£12.72,Two,Science Fiction
+Science Fiction Book 21,£13.54,Three,Science Fiction
+Science Fiction Book 22,£22.78,Two,Science Fiction
+Science Fiction Book 23,£14.22,Four,Science Fiction
+Science Fiction Book 24,£53.53,Four,Science Fiction
+Science Fiction Book 25,£24.10,Two,Science Fiction
+Science Fiction Book 26,£24.65,Three,Science Fiction
+Science Fiction Book 27,£17.88,Three,Science Fiction
+Science Fiction Book 28,£23.16,Four,Science Fiction
+Science Fiction Book 29,£58.63,Four,Science Fiction
+Science Fiction Book 30,£22.22,Four,Science Fiction
+Fantasy Book 1,£25.48,Two,Fantasy
+Fantasy Book 2,£10.05,Two,Fantasy
+Fantasy Book 3,£33.73,Three,Fantasy
+Fantasy Book 4,£20.05,Three,Fantasy
+Fantasy Book 5,£10.25,Two,Fantasy
+Fantasy Book 6,£14.49,Two,Fantasy
+Fantasy Book 7,£12.08,One,Fantasy
+Fantasy Book 8,£25.21,Two,Fantasy
+Fantasy Book 9,£39.28,Three,Fantasy
+Fantasy Book 10,£47.53,Four,Fantasy
+Fantasy Book 11,£45.80,Four,Fantasy
+Fantasy Book 12,£29.48,Two,Fantasy
+Fantasy Book 13,£59.24,Two,Fantasy
+Fantasy Book 14,£46.21,Four,Fantasy
+Fantasy Book 15,£12.19,Four,Fantasy
+Fantasy Book 16,£54.60,Four,Fantasy
+Fantasy Book 17,£46.69,Four,Fantasy
+Fantasy Book 18,£16.97,Three,Fantasy
+Fantasy Book 19,£35.22,Four,Fantasy
+Fantasy Book 20,£50.23,Four,Fantasy
+Fantasy Book 21,£39.20,Four,Fantasy
+Fantasy Book 22,£44.14,Four,Fantasy
+Fantasy Book 23,£21.50,One,Fantasy
+Fantasy Book 24,£16.65,Two,Fantasy
+Fantasy Book 25,£15.25,Four,Fantasy
+Fantasy Book 26,£37.93,Four,Fantasy
+Fantasy Book 27,£41.31,Four,Fantasy
+Fantasy Book 28,£34.46,Two,Fantasy
+Fantasy Book 29,£49.88,Four,Fantasy
+Fantasy Book 30,£35.15,Three,Fantasy

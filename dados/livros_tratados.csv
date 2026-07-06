@@ -1,0 +1,241 @@
+titulo,categoria,preco,estrelas,bem_avaliado
+Travel Book 1,Travel,26.19,2,0
+Travel Book 2,Travel,42.55,2,0
+Travel Book 3,Travel,36.79,3,0
+Travel Book 4,Travel,12.9,3,0
+Travel Book 5,Travel,11.87,2,0
+Travel Book 6,Travel,13.49,1,0
+Travel Book 7,Travel,31.23,4,1
+Travel Book 8,Travel,16.19,2,0
+Travel Book 9,Travel,41.37,5,1
+Travel Book 10,Travel,38.86,3,0
+Travel Book 11,Travel,58.81,2,0
+Travel Book 12,Travel,52.92,3,0
+Travel Book 13,Travel,17.21,2,0
+Travel Book 14,Travel,25.42,4,1
+Travel Book 15,Travel,19.04,3,0
+Travel Book 16,Travel,41.95,3,0
+Travel Book 17,Travel,37.39,2,0
+Travel Book 18,Travel,12.98,2,0
+Travel Book 19,Travel,44.02,3,0
+Travel Book 20,Travel,25.71,3,0
+Travel Book 21,Travel,32.66,2,0
+Travel Book 22,Travel,49.72,4,1
+Travel Book 23,Travel,22.2,3,0
+Travel Book 24,Travel,36.26,4,1
+Travel Book 25,Travel,46.47,3,0
+Travel Book 26,Travel,59.01,2,0
+Travel Book 27,Travel,30.91,4,1
+Travel Book 28,Travel,17.6,3,0
+Travel Book 29,Travel,11.96,3,0
+Travel Book 30,Travel,48.23,4,1
+Mystery Book 1,Mystery,53.77,3,0
+Mystery Book 2,Mystery,44.76,4,1
+Mystery Book 3,Mystery,38.99,3,0
+Mystery Book 4,Mystery,52.0,5,1
+Mystery Book 5,Mystery,33.7,4,1
+Mystery Book 6,Mystery,13.03,3,0
+Mystery Book 7,Mystery,42.36,5,1
+Mystery Book 8,Mystery,51.1,3,0
+Mystery Book 9,Mystery,29.29,3,0
+Mystery Book 10,Mystery,11.13,3,0
+Mystery Book 11,Mystery,18.4,2,0
+Mystery Book 12,Mystery,12.95,4,1
+Mystery Book 13,Mystery,16.47,2,0
+Mystery Book 14,Mystery,29.55,4,1
+Mystery Book 15,Mystery,14.03,3,0
+Mystery Book 16,Mystery,37.47,4,1
+Mystery Book 17,Mystery,50.96,4,1
+Mystery Book 18,Mystery,23.92,3,0
+Mystery Book 19,Mystery,27.94,4,1
+Mystery Book 20,Mystery,57.89,2,0
+Mystery Book 21,Mystery,18.81,2,0
+Mystery Book 22,Mystery,21.67,3,0
+Mystery Book 23,Mystery,39.46,2,0
+Mystery Book 24,Mystery,10.2,2,0
+Mystery Book 25,Mystery,28.46,3,0
+Mystery Book 26,Mystery,57.65,4,1
+Mystery Book 27,Mystery,35.77,3,0
+Mystery Book 28,Mystery,43.81,2,0
+Mystery Book 29,Mystery,54.98,4,1
+Mystery Book 30,Mystery,53.73,4,1
+Historical Fiction Book 1,Historical Fiction,29.62,3,0
+Historical Fiction Book 2,Historical Fiction,15.18,3,0
+Historical Fiction Book 3,Historical Fiction,13.11,1,0
+Historical Fiction Book 4,Historical Fiction,20.44,2,0
+Historical Fiction Book 5,Historical Fiction,27.0,2,0
+Historical Fiction Book 6,Historical Fiction,10.01,2,0
+Historical Fiction Book 7,Historical Fiction,15.07,2,0
+Historical Fiction Book 8,Historical Fiction,11.28,4,1
+Historical Fiction Book 9,Historical Fiction,40.7,2,0
+Historical Fiction Book 10,Historical Fiction,22.61,2,0
+Historical Fiction Book 11,Historical Fiction,28.21,2,0
+Historical Fiction Book 12,Historical Fiction,52.45,5,1
+Historical Fiction Book 13,Historical Fiction,33.3,3,0
+Historical Fiction Book 14,Historical Fiction,14.29,2,0
+Historical Fiction Book 15,Historical Fiction,27.13,2,0
+Historical Fiction Book 16,Historical Fiction,51.44,2,0
+Historical Fiction Book 17,Historical Fiction,11.15,4,1
+Historical Fiction Book 18,Historical Fiction,36.41,2,0
+Historical Fiction Book 19,Historical Fiction,37.16,2,0
+Historical Fiction Book 20,Historical Fiction,36.41,5,1
+Historical Fiction Book 21,Historical Fiction,53.17,4,1
+Historical Fiction Book 22,Historical Fiction,23.06,2,0
+Historical Fiction Book 23,Historical Fiction,18.35,4,1
+Historical Fiction Book 24,Historical Fiction,36.63,4,1
+Historical Fiction Book 25,Historical Fiction,26.48,2,0
+Historical Fiction Book 26,Historical Fiction,50.58,5,1
+Historical Fiction Book 27,Historical Fiction,52.63,4,1
+Historical Fiction Book 28,Historical Fiction,50.92,4,1
+Historical Fiction Book 29,Historical Fiction,21.34,3,0
+Historical Fiction Book 30,Historical Fiction,27.78,2,0
+Classics Book 1,Classics,11.4,3,0
+Classics Book 2,Classics,22.96,4,1
+Classics Book 3,Classics,57.83,4,1
+Classics Book 4,Classics,56.85,5,1
+Classics Book 5,Classics,57.75,4,1
+Classics Book 6,Classics,21.02,3,0
+Classics Book 7,Classics,19.84,3,0
+Classics Book 8,Classics,41.2,5,1
+Classics Book 9,Classics,52.02,4,1
+Classics Book 10,Classics,42.65,5,1
+Classics Book 11,Classics,14.24,4,1
+Classics Book 12,Classics,55.49,5,1
+Classics Book 13,Classics,47.51,4,1
+Classics Book 14,Classics,18.93,4,1
+Classics Book 15,Classics,26.63,4,1
+Classics Book 16,Classics,58.58,4,1
+Classics Book 17,Classics,30.07,5,1
+Classics Book 18,Classics,46.24,3,0
+Classics Book 19,Classics,16.35,2,0
+Classics Book 20,Classics,55.24,5,1
+Classics Book 21,Classics,17.31,4,1
+Classics Book 22,Classics,59.02,5,1
+Classics Book 23,Classics,27.52,4,1
+Classics Book 24,Classics,16.55,2,0
+Classics Book 25,Classics,58.54,5,1
+Classics Book 26,Classics,36.33,5,1
+Classics Book 27,Classics,31.69,5,1
+Classics Book 28,Classics,51.31,3,0
+Classics Book 29,Classics,22.59,3,0
+Classics Book 30,Classics,22.03,4,1
+Poetry Book 1,Poetry,22.97,3,0
+Poetry Book 2,Poetry,16.55,5,1
+Poetry Book 3,Poetry,27.69,3,0
+Poetry Book 4,Poetry,39.17,5,1
+Poetry Book 5,Poetry,31.03,5,1
+Poetry Book 6,Poetry,35.08,4,1
+Poetry Book 7,Poetry,36.18,2,0
+Poetry Book 8,Poetry,32.01,3,0
+Poetry Book 9,Poetry,10.2,4,1
+Poetry Book 10,Poetry,18.62,3,0
+Poetry Book 11,Poetry,46.26,4,1
+Poetry Book 12,Poetry,26.3,4,1
+Poetry Book 13,Poetry,37.77,5,1
+Poetry Book 14,Poetry,15.31,4,1
+Poetry Book 15,Poetry,22.42,3,0
+Poetry Book 16,Poetry,48.61,4,1
+Poetry Book 17,Poetry,38.09,5,1
+Poetry Book 18,Poetry,55.62,4,1
+Poetry Book 19,Poetry,40.63,4,1
+Poetry Book 20,Poetry,35.61,4,1
+Poetry Book 21,Poetry,32.62,4,1
+Poetry Book 22,Poetry,33.9,5,1
+Poetry Book 23,Poetry,44.96,5,1
+Poetry Book 24,Poetry,57.11,3,0
+Poetry Book 25,Poetry,37.98,5,1
+Poetry Book 26,Poetry,52.0,3,0
+Poetry Book 27,Poetry,16.08,3,0
+Poetry Book 28,Poetry,13.63,3,0
+Poetry Book 29,Poetry,13.66,4,1
+Poetry Book 30,Poetry,49.2,5,1
+Romance Book 1,Romance,17.72,3,0
+Romance Book 2,Romance,43.01,2,0
+Romance Book 3,Romance,54.14,5,1
+Romance Book 4,Romance,20.98,4,1
+Romance Book 5,Romance,29.91,3,0
+Romance Book 6,Romance,59.49,4,1
+Romance Book 7,Romance,18.07,3,0
+Romance Book 8,Romance,35.78,3,0
+Romance Book 9,Romance,19.79,2,0
+Romance Book 10,Romance,46.11,2,0
+Romance Book 11,Romance,37.7,3,0
+Romance Book 12,Romance,10.9,2,0
+Romance Book 13,Romance,41.2,3,0
+Romance Book 14,Romance,13.21,4,1
+Romance Book 15,Romance,49.42,5,1
+Romance Book 16,Romance,15.24,2,0
+Romance Book 17,Romance,11.98,4,1
+Romance Book 18,Romance,23.52,2,0
+Romance Book 19,Romance,31.11,4,1
+Romance Book 20,Romance,50.95,3,0
+Romance Book 21,Romance,17.47,4,1
+Romance Book 22,Romance,38.53,4,1
+Romance Book 23,Romance,14.47,1,0
+Romance Book 24,Romance,44.41,3,0
+Romance Book 25,Romance,13.62,4,1
+Romance Book 26,Romance,41.72,4,1
+Romance Book 27,Romance,14.19,4,1
+Romance Book 28,Romance,13.33,4,1
+Romance Book 29,Romance,32.69,3,0
+Romance Book 30,Romance,37.65,4,1
+Science Fiction Book 1,Science Fiction,23.39,2,0
+Science Fiction Book 2,Science Fiction,36.35,2,0
+Science Fiction Book 3,Science Fiction,15.47,2,0
+Science Fiction Book 4,Science Fiction,12.52,2,0
+Science Fiction Book 5,Science Fiction,25.6,2,0
+Science Fiction Book 6,Science Fiction,47.97,3,0
+Science Fiction Book 7,Science Fiction,35.0,2,0
+Science Fiction Book 8,Science Fiction,27.35,2,0
+Science Fiction Book 9,Science Fiction,22.52,1,0
+Science Fiction Book 10,Science Fiction,46.65,3,0
+Science Fiction Book 11,Science Fiction,19.47,3,0
+Science Fiction Book 12,Science Fiction,56.73,2,0
+Science Fiction Book 13,Science Fiction,50.95,3,0
+Science Fiction Book 14,Science Fiction,34.75,4,1
+Science Fiction Book 15,Science Fiction,29.65,3,0
+Science Fiction Book 16,Science Fiction,44.39,5,1
+Science Fiction Book 17,Science Fiction,27.14,4,1
+Science Fiction Book 18,Science Fiction,45.34,4,1
+Science Fiction Book 19,Science Fiction,30.23,3,0
+Science Fiction Book 20,Science Fiction,12.72,2,0
+Science Fiction Book 21,Science Fiction,13.54,3,0
+Science Fiction Book 22,Science Fiction,22.78,2,0
+Science Fiction Book 23,Science Fiction,14.22,4,1
+Science Fiction Book 24,Science Fiction,53.53,4,1
+Science Fiction Book 25,Science Fiction,24.1,2,0
+Science Fiction Book 26,Science Fiction,24.65,3,0
+Science Fiction Book 27,Science Fiction,17.88,3,0
+Science Fiction Book 28,Science Fiction,23.16,4,1
+Science Fiction Book 29,Science Fiction,58.63,4,1
+Science Fiction Book 30,Science Fiction,22.22,4,1
+Fantasy Book 1,Fantasy,25.48,2,0
+Fantasy Book 2,Fantasy,10.05,2,0
+Fantasy Book 3,Fantasy,33.73,3,0
+Fantasy Book 4,Fantasy,20.05,3,0
+Fantasy Book 5,Fantasy,10.25,2,0
+Fantasy Book 6,Fantasy,14.49,2,0
+Fantasy Book 7,Fantasy,12.08,1,0
+Fantasy Book 8,Fantasy,25.21,2,0
+Fantasy Book 9,Fantasy,39.28,3,0
+Fantasy Book 10,Fantasy,47.53,4,1
+Fantasy Book 11,Fantasy,45.8,4,1
+Fantasy Book 12,Fantasy,29.48,2,0
+Fantasy Book 13,Fantasy,59.24,2,0
+Fantasy Book 14,Fantasy,46.21,4,1
+Fantasy Book 15,Fantasy,12.19,4,1
+Fantasy Book 16,Fantasy,54.6,4,1
+Fantasy Book 17,Fantasy,46.69,4,1
+Fantasy Book 18,Fantasy,16.97,3,0
+Fantasy Book 19,Fantasy,35.22,4,1
+Fantasy Book 20,Fantasy,50.23,4,1
+Fantasy Book 21,Fantasy,39.2,4,1
+Fantasy Book 22,Fantasy,44.14,4,1
+Fantasy Book 23,Fantasy,21.5,1,0
+Fantasy Book 24,Fantasy,16.65,2,0
+Fantasy Book 25,Fantasy,15.25,4,1
+Fantasy Book 26,Fantasy,37.93,4,1
+Fantasy Book 27,Fantasy,41.31,4,1
+Fantasy Book 28,Fantasy,34.46,2,0
+Fantasy Book 29,Fantasy,49.88,4,1
+Fantasy Book 30,Fantasy,35.15,3,0
